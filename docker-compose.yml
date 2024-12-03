@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dragan_neo4j_etl:
+    build:
+      context: ./dragan_neo4j_etl
+    env_file:
+      - .env

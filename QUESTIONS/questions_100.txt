@@ -1,0 +1,100 @@
+What is the function of the BRCA1 gene?  
+Which targets are involved in cell proliferation?  
+What is the role of p53 in cancer?  
+What is the function of FGFR1 (Fibroblast growth factor receptor 1)?  
+What role does EGFR (Epidermal growth factor receptor) play in tumor growth?  
+How does JAK-2 (Janus kinase 2) mediate immune response signaling?  
+What is the biological role of PDE5A (Phosphodiesterase 5A) in regulating vascular smooth muscle?  
+What is the function of Polypeptide deformylase (PDF) in bacterial survival?  
+How does TNF-alpha contribute to inflammatory disease mechanisms?  
+What role does the VEGF receptor play in promoting angiogenesis?  
+What is the role of ALK (anaplastic lymphoma kinase) in driving non-small cell lung cancer?  
+How does HER2 influence breast cancer progression?  
+What is the function of MYC in regulating cellular growth and metabolism?  
+How does mTOR regulate cell growth and proliferation in cancer?  
+What is the role of CXCR4 in cell migration and metastasis?  
+What is the function of FOXP3 in maintaining immune homeostasis?  
+How does the androgen receptor contribute to prostate cancer progression?  
+What is the biological role of BCL-2 in preventing apoptosis?  
+What is the function of STAT3 in promoting tumor cell survival?  
+How does the CDK4/6 complex regulate the cell cycle?  
+How does KRAS influence signal transduction pathways in cancer?  
+What role does NF-kappaB play in inflammation and immune regulation?  
+How does the PI3K/AKT pathway affect cell survival and growth?  
+What is the role of IL-6 in chronic inflammatory diseases?  
+How do histone deacetylases (HDACs) regulate gene expression?  
+What targets are involved in oxidative stress and its cellular responses?  
+How does the CXCL12/CXCR4 axis affect tumor progression?  
+What role does mTORC1 play in energy metabolism?  
+What is the biological function of beta-catenin in the Wnt signaling pathway?  
+How does the FOXP1 gene contribute to immune cell differentiation?  
+What diseases are treated by the drug Indomethacin?  
+How is BNT162b2 (Pfizer COVID-19 vaccine) used in infectious disease management?  
+What are the indications for Maralixibat in treating liver diseases?  
+What diseases are treated by Sulfatinib in clinical trials?  
+How does Pemigatinib address FGFR1-related cancers?  
+What conditions are managed using Intedanib?  
+How is Romiplostim used in hematological disorders?  
+Which diseases are treated with drugs targeting PDE5A?  
+What diseases are addressed by drugs inhibiting JAK-2?  
+How is Nedosiran used in treating primary hyperoxaluria?  
+How does p53 contribute to tumor suppression?  
+What is the role of EGFR in non-small cell lung cancer?  
+How does FGFR1 influence breast and bladder cancer progression?  
+What is the role of VEGF in diabetic retinopathy?  
+How does BRCA1 mutation influence breast and ovarian cancer risks?  
+What targets are linked to fibrotic disease progression?  
+What is the role of CXCL10 in autoimmune diseases?  
+How does the androgen receptor affect resistance to prostate cancer therapy?  
+What is the function of JAK-STAT signaling in inflammatory diseases?  
+How do mutations in KRAS impact treatment outcomes in colorectal cancer?  
+Which drugs interact with EGFR?  
+How do drugs targeting JAK-2 influence immune-mediated diseases?  
+Which drugs modulate VEGF activity in cancer treatment?  
+What drugs are currently approved to target FGFR1 in oncology?  
+Are there drugs that inhibit p53-related pathways?  
+What drugs target HER2 in breast cancer?  
+How do PDE5A inhibitors work in managing pulmonary hypertension?  
+What drugs are effective against diseases involving CXCR4?  
+Are there drugs that modulate mTOR activity?  
+What drugs are used to inhibit TNF-alpha in autoimmune diseases?  
+What diseases are associated with FGFR1 mutations?  
+How are diseases with EGFR mutations clustered for treatment?  
+Which diseases share JAK-2 as a therapeutic target?  
+What are the most common diseases involving VEGF overexpression?  
+How do BRCA1-related cancers influence therapeutic strategies?  
+What diseases are characterized by increased BCL-2 activity?  
+Which autoimmune diseases involve TNF-alpha?  
+How are CXCR4-related cancers classified for treatment?  
+What diseases are linked to dysregulated mTOR signaling?  
+Which neurological disorders involve histone deacetylase dysfunction?  
+What role does the PTEN gene play in regulating tumor suppression?
+How does the RET proto-oncogene contribute to thyroid cancer development?
+What is the function of CD20 in B-cell lymphomas?
+How does the MAPK/ERK pathway influence cellular signaling in cancer?
+What is the biological role of SMAD4 in TGF-beta signaling?
+How do mutations in IDH1 affect glioblastoma progression?
+What role does HIF-1alpha play in the response to hypoxia?
+How is the APC gene involved in colorectal cancer development?
+What is the function of the Wnt signaling pathway in embryogenesis?
+How do mutations in FLT3 contribute to acute myeloid leukemia?
+What is the role of PD-L1 in immune checkpoint inhibition?
+How does the CD19 target influence CAR-T cell therapy efficacy?
+What role does CTLA-4 play in regulating immune responses?
+How does MEK1/2 inhibition affect MAPK pathway-driven cancers?
+What diseases are treated by drugs targeting PARP1?
+How is Venetoclax used in the management of hematological cancers?
+What role does BRAF V600E mutation play in melanoma treatment?
+How does SGLT2 inhibition manage diabetic nephropathy?
+What is the function of CCR5 in HIV treatment?
+How do integrin inhibitors work in the treatment of fibrotic diseases?
+What diseases are associated with dysregulated STAT5 signaling?
+How does IL-17 contribute to the pathogenesis of autoimmune diseases?
+What is the role of CXCR3 in inflammatory disease pathways?
+How does targeting TGF-beta improve cancer immunotherapy outcomes?
+What diseases are associated with elevated CCL2 levels?
+How do HER3 inhibitors differ from HER2 inhibitors in cancer treatment?
+What is the role of RAS mutations in pancreatic cancer prognosis?
+How does targeting HDAC6 improve outcomes in multiple myeloma?
+Which neurodegenerative diseases involve tau protein dysregulation?
+How does targeting CDK7 influence transcriptional regulation in cancer?
